@@ -1,6 +1,6 @@
 # React Framer Motion
 
-Live link: https://github.com/jeffrey125/framer-practice.git
+Live link: https://framer-practice.vercel.app/
 
 - A Simple React app that has Framer motion
 
